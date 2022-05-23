@@ -139,6 +139,7 @@ span {
     color: var(--accent-color);
 }
 
+
 .header-list .header-link.current {
     color: var(--accent-color);
 }
